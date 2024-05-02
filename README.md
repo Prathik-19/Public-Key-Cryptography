@@ -1,4 +1,4 @@
-# Assignment 5 - Public Key Cryptography 
+# Public Key Cryptography 
 
 This program is an implementation of the ss algorithm that is used to encrypt and decrypt the cyphertext given the Public Modulus(n) and Private exponent(e).
 
